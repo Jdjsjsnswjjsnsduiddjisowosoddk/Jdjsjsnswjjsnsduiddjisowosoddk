@@ -1,8 +1,6 @@
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
-<title>Волков Максим</title>
 </head>
 <body>
 <h1>BOXING</h1>
